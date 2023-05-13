@@ -6,7 +6,21 @@
 ![casos de uso](https://github.com/Coyote938/ActividadDocDrogueria/assets/32604986/6fcadd55-d2d0-4d56-9f27-79a5ec691d89)
 
 # Diagrama de flujo
-
+```mermaid
+graph TD;
+  A((Inicio))-->B[Ingresar término de búsqueda];
+	 B-->C[Realizar búsqueda en la base de datos];
+     C-->D[Mostrar lista de resultados de búsqueda];
+     D-->E[Solicitar selección de un producto de la lista];
+     E-->F[Mostrar página de detalles del producto];
+     F-->G[Solicitar selección de cantidad deseada];
+     G-->H[Calcular costo total de la compra];
+     H-->I[Agregar producto a la lista de compras];
+     I-->J[Solicitar decisión de seguir comprando o proceder al pago]; 
+     J-- Seguir comprando -->B;
+     J-- Proceder al pago -->K[Proceso de pago];
+  K((Fin));
+```
 # Pseudocóigo
 INICO
 Mostrar la barra de búsqueda de productos
