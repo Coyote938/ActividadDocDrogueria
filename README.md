@@ -22,7 +22,7 @@ graph TD;
      I-->J[Solicitar decisión de seguir comprando o proceder al pago]; 
      J-- Seguir comprando -->B;
      J-- Proceder al pago -->K[Proceso de pago];
-  K((Fin :grin:));
+  K((Fin));
 ```
 # Pseudocóigo
 INICIO
