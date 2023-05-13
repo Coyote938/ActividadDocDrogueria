@@ -1,9 +1,12 @@
 # Actividad Docucumentación Drogueria
-# Historia de usuario
-![HU](https://github.com/Coyote938/ActividadDocDrogueria/assets/32604986/960b04a7-0078-476b-8bf7-0fbaf4763f1a)
+# Descripción
+Este es un ejemplo de documentación basica para un proyecto de una droguería online.
 
 # Casos de uso
 ![casos de uso](https://github.com/Coyote938/ActividadDocDrogueria/assets/32604986/6fcadd55-d2d0-4d56-9f27-79a5ec691d89)
+
+# Historia de usuario
+![HU](https://github.com/Coyote938/ActividadDocDrogueria/assets/32604986/960b04a7-0078-476b-8bf7-0fbaf4763f1a)
 
 # Diagrama de flujo
 ```mermaid
