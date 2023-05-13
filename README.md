@@ -75,4 +75,5 @@ Inicio
 ---------------> Continuar comprando o proceder al pago
 
 ---> Cerrar página web de la tienda en línea de la droguería
+
 FIN
